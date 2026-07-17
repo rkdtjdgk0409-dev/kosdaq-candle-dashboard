@@ -2,7 +2,7 @@
   "index_code": "KOSDAQ",
   "index_name": "코스닥",
   "market_date": "2026-07-16",
-  "updated_at": "2026-07-17 15:26 KST",
+  "updated_at": "2026-07-17 20:54 KST",
   "source_name": "네이버 증권 공개 캔들 차트 JSON",
   "source_url": "https://m.stock.naver.com/domestic/index/KOSDAQ/total",
   "latest": {
