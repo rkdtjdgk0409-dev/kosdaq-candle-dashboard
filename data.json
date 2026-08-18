@@ -1,28 +1,20 @@
 {
   "index_code": "KOSDAQ",
   "index_name": "코스닥",
-  "market_date": "2026-08-14",
-  "updated_at": "2026-08-17 16:48 KST",
+  "market_date": "2026-08-18",
+  "updated_at": "2026-08-18 16:34 KST",
   "source_name": "네이버 증권 공개 캔들 차트 JSON",
   "source_url": "https://m.stock.naver.com/domestic/index/KOSDAQ/total",
   "latest": {
-    "close": 864.65,
-    "change": 3.28,
-    "change_rate": 0.38,
-    "open": 868.07,
-    "high": 879.29,
-    "low": 845.41,
-    "volume": 698635.0
+    "close": 834.2,
+    "change": -30.45,
+    "change_rate": -3.52,
+    "open": 866.59,
+    "high": 872.59,
+    "low": 827.97,
+    "volume": 683194.0
   },
   "rows": [
-    {
-      "time": "2026-03-09",
-      "open": 1096.48,
-      "high": 1113.56,
-      "low": 1067.24,
-      "close": 1102.28,
-      "volume": 1044170.0
-    },
     {
       "time": "2026-03-10",
       "open": 1147.99,
@@ -894,6 +886,14 @@
       "low": 845.41,
       "close": 864.65,
       "volume": 698635.0
+    },
+    {
+      "time": "2026-08-18",
+      "open": 866.59,
+      "high": 872.59,
+      "low": 827.97,
+      "close": 834.2,
+      "volume": 683194.0
     }
   ]
 }
